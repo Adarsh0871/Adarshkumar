@@ -1,0 +1,1 @@
+The warning about the legacy builder being deprecated suggests that you're using an older Docker build method. To leverage the newer features of Docker, you can install BuildKit and use the buildx command for building images. While this is just a warning, it's good practice to move to the new builder.
