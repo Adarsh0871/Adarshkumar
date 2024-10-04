@@ -1,3 +1,5 @@
+it is the clone file of github
+
 It looks like you successfully ran the git push -u origin main command, which is used to push your local commits to the remote repository on GitHub. Here’s a breakdown of what happened:
 
     Username and Password Prompt: You entered your GitHub username and password (or personal access token, which is recommended instead of a password for better security).
