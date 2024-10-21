@@ -7,3 +7,4 @@ It looks like you successfully ran the git push -u origin main command, which is
     Tracking Setup: The message "Branch 'main' set up to track remote branch 'main' from 'origin'" indicates that your local main branch is now linked to the main branch on the origin remote (which is typically your GitHub repository). This means future pushes and pulls can be done without needing to specify the branch.
 
     Everything Up-to-Date: The message "Everything up-to-date" indicates that there were no new changes in your local repository that needed to be pushed to GitHub; everything is already synced.
+You now need to ensure that the kubectl completion script gets sourced in all your shell sessions. There are two ways in which you can do this:
